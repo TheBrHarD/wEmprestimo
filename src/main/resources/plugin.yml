@@ -1,0 +1,5 @@
+name: wEmprestimo
+version: 1.0
+main: com.contattos.wemprestimo.Main
+commands:
+  shop:

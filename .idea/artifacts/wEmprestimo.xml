@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wEmprestimo">
+    <output-path>$USER_HOME$/Servidor/plugins</output-path>
+    <root id="archive" name="wEmprestimo.jar">
+      <element id="module-output" name="wEmprestimo" />
+    </root>
+  </artifact>
+</component>
